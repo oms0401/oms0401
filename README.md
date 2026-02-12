@@ -17,14 +17,14 @@ class AIEngineer:
     def __init__(self):
         self.name = "Om Manoj Sharma"
         self.role = "Production AI Engineer"
-        self.focus = ["Multi-Agent Systems", "Voice AI", "MLOps"]
+        self.focus = ["Multi-Agent Systems", "Voice AI", "MLOps","Classical ML"]
         self.mindset = "Ship fast, iterate faster"
     
     def current_status(self):
         return {
             "🎯 Building": "Agentic AI systems that solve real problems",
-            "📚 Learning": "MCP, AutoGen, Multimodal reasoning",
-            "🔍 Seeking": "AI Engineering roles at ambitious startups",
+            "📚 Learning": "Deploying LLMs, Multimodal reasoning",
+            "🔍 Seeking": "AI Engineering roles",
             "🌍 Location": "India | Open to Remote"
         }
     
@@ -110,8 +110,8 @@ class AIEngineer:
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-0066CC?style=for-the-badge)
 ![AutoGen](https://img.shields.io/badge/🤖_AutoGen-7B68EE?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic ClaudeCode](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
 
 ### Vector DBs & Tools
 
@@ -162,7 +162,6 @@ philosophy:
   - Metrics over opinions
   
 current_exploration:
-  - Model Context Protocol (MCP)
   - Advanced multi-agent coordination
   - Multimodal reasoning systems
   - Cost-optimized production LLM systems
@@ -170,19 +169,7 @@ current_exploration:
 
 ---
 
-## 🌟 Featured Projects
 
-<div align="center">
-
-[![Ava - Multimodal Agent](https://github-readme-stats.vercel.app/api/pin/?username=oms0401&repo=Multimodal-agentic-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/oms0401/Multimodal-agentic-chatbot)
-[![MLOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=oms0401&repo=MLops-Car-price&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/oms0401/MLops-Car-price)
-
-[![Graph RAG](https://github-readme-stats.vercel.app/api/pin/?username=oms0401&repo=Graph-Rag&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/oms0401/Graph-Rag)
-[![MCP Tool](https://img.shields.io/badge/🔌_View_on_LobeHub-Repopack_MCP-blueviolet?style=for-the-badge&labelColor=0D1117)](https://lobehub.com/pl/mcp/oms0401-repopack-mcp-git-flatner)
-
-</div>
-
----
 
 ## 📈 The Journey
 
@@ -206,19 +193,18 @@ graph LR
 
 ## 📫 Let's Build Something Amazing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-manoj-sharma-b87b22291/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oms0401vns@gmail.com)
+
 
 ---
 
 ### 💡 Currently Open To
 
-🚀 **AI/ML Engineering roles** building agentic systems and production ML  
+🚀 **AI/ML Engineering roles** building agentic systems and production MLOps  
 🤝 **Open Source collaborations** on LLM tooling and agent frameworks  
 🔬 **Research projects** in multimodal AI and knowledge graphs  
-💼 **Internships** where I can ship fast and learn faster
+
 
 ---
 
